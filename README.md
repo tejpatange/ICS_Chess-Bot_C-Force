@@ -1,6 +1,6 @@
 # ICS_Chess-Bot_C-Force
 
-##Description 
+###Description 
 This repository contains a chess game programmed in C language. It is designed so that two players can play.
 
 ## Features
