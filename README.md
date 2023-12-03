@@ -1,13 +1,13 @@
 # ICS_Chess-Bot_C-Force
 
-###Description 
+## Description 
 This repository contains a chess game programmed in C language. It is designed so that two players can play.
 
 ## Features
 - Bitboards for board representation.
 - Able to detect the check, enpassant, checkmate, and castling
 
-##Getting Started
+## Getting Started
 ### Installation
 1. Download the code
 2. open console or terminal
